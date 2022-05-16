@@ -1,2 +1,2 @@
 # GS
-This is a reposetory created by Ayush to test how feedback can be managed by the 
+This is a reposetory created by Ayush to test feedback management. 
